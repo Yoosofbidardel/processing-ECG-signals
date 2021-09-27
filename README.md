@@ -25,4 +25,6 @@ I used a threshold to determine the pulses. when passing 600 threshold, the bool
 
 # how to run
 
-for using the code you can simply open *main.m and uncomment the code.
+for using the code you can simply open * main.m *  and uncomment the code.
+
+ECG1_500Hz.mat  is the dataset
