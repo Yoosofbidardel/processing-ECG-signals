@@ -5,6 +5,7 @@
 we are given leads I and II  and based on relations between these two and the other leads, we can determine them.
 
 here is the output:
+
 ![image](https://user-images.githubusercontent.com/70627266/134860714-2901e33e-2f6c-4046-aa73-278c17bd114d.png)
 
 # VCG and QRS
@@ -24,4 +25,4 @@ I used a threshold to determine the pulses. when passing 600 threshold, the bool
 
 # how to run
 
-for using the code you can simply open main.m and uncomment the code.
+for using the code you can simply open *main.m and uncomment the code.
