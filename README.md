@@ -37,6 +37,14 @@ The script will:
 - Draw VCG trajectories for the T-wave (samples 401–538) and QRS complex
   (samples 6451–6498).
 
+## Example outputs
+
+- Augmented limb leads (I, II, III, aVF, aVL, aVR)  
+  ![Augmented limb leads](https://user-images.githubusercontent.com/70627266/134860714-2901e33e-2f6c-4046-aa73-278c17bd114d.png)
+- Vectorcardiogram trajectories for QRS and T-wave segments  
+  ![VCG QRS](https://user-images.githubusercontent.com/70627266/134860735-c5b75636-b47a-4280-9380-52af91cdd1a0.png)
+  ![VCG T-wave](https://user-images.githubusercontent.com/70627266/134860767-5c7e60ea-0c71-46c1-ba84-f364a3f43464.png)
+
 ## Function overview
 
 - `load_ecg_signals`: Validates and loads the dataset, attaching metadata
