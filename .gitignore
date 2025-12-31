@@ -1,0 +1,11 @@
+# MATLAB / Octave
+*.asv
+*.m~
+*.mex*
+slprj/
+*.autosave
+*.fig
+
+# OS files
+.DS_Store
+Thumbs.db
